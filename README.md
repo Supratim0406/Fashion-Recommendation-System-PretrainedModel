@@ -47,8 +47,9 @@ The web interface is built using **Streamlit**, allowing users to upload an imag
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 
+```
+## 🧠 How It Works
 
-🧠 How It Works
 🔹 Step 1 — Feature Extraction
 
 ResNet50 (without top layers) extracts a 2048-dimension feature vector for each fashion image.
