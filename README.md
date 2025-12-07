@@ -1,7 +1,8 @@
 # 👗 Fashion Recommendation System  
 A deep-learning powered **content-based image recommendation system** built using **TensorFlow (ResNet50)** for feature extraction and **k-Nearest Neighbors (kNN)** for similarity search.  
 The web interface is built using **Streamlit**, allowing users to upload an image and get visually similar fashion items instantly.
-Kaggle Dataset link - https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+
+* Kaggle Dataset link - https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
 
 ---
 
